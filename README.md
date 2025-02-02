@@ -1,5 +1,17 @@
 ## phur99 / 최유락
-
+**🔍저는 이런 프로젝트를 수행해봤어요**
+1. C로 BST 구현 및 필요 메서드를 작성하는 프로젝트
+2. 8051 MCU를 사용하여 어셈블리어로 Snake game을 작동시키는 프로젝트
+3. kalman filter와 viterbi algoritihm 을 matlab으로 구현하는 프로젝트
+4. verilog로 RISC-V 명령어 기반 5-Pipelined processor 설계(Fetch, decode, execute, memory, wirte back) 및 실행하는 알고리즘의 최적화
+5. EMG 신호를 기반으로 LABView로 DC 모터 제어 시스템 설계
+6. ngspice를 활용해서 DFF와 2bit up-down counter 소자 설계
+7. verilog로 sobel filter와 sharpening filter convolution logic 설계
+8. 라즈베리파이 위에서 YOLOv5기반 모델을 활용하여 객체 인식 프로그램 구현
+9. Crazyflie 드론을 앵커로 다른 드론의 위치를 측량하는 프로그램 설계
+10. JAVA로 간단한 게임 설계 및 구현
+11. ResNet50으로 마스크 착용 여부를 이진 분류하는 프로그램 구현
+12. DDPG, DQN, PPO, SAC 알고리즘을 구현하고 실제 예제에 적용하여 비교교
 ---
 
 ## My values  
@@ -12,7 +24,7 @@
 ## How I work  
 저는 항상 재미있게 살고 싶습니다.  
 사용자와 클라이언트를 동시에 만족시키는 것 또한 재미있고,  
-새로운 기술을 배우는 것 또한 재미있습니다.  
+새로운 기술을 배우는 것 또한 재미있습니다.  ~~~~
 어려운 프로덕트를 성공시키는 경험도 재미있고,  
 기술을 쉽게 풀어내는 것 또한 재미있습니다. 😊  
 
